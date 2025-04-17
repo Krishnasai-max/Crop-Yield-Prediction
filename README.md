@@ -81,7 +81,6 @@ The dataset (`dmt-dataset.csv`) includes:
 
 ## 🤝 Acknowledgments
 
-- Mentorship: Prof. Durai Raj Vincent P.M
 - Dataset: Prepared and cleaned using publicly available agricultural data
 - Tools: [XGBoost](https://xgboost.readthedocs.io/), [scikit-learn](https://scikit-learn.org/), [Matplotlib](https://matplotlib.org/)
 
